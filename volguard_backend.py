@@ -1,4 +1,3 @@
-```python
 from __future__ import annotations
 
 # ============================================================
@@ -2446,4 +2445,3 @@ if __name__ == "__main__":
             logger.critical(f"Emergency save also failed: {emergency_error}")
             
     logger.info("VolGuard v8.1 shutdown complete")
-```
