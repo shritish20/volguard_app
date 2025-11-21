@@ -14,7 +14,7 @@ import calendar
 import asyncio
 import threading
 import smtplib
-from email.mime.text import MimeText
+from email.mime.text import MIMEText
 from email.mime.multipart import MimeMultipart
 from dataclasses import dataclass, asdict
 from typing import Optional, Dict, List, Tuple, Any, Deque
